@@ -130,3 +130,4 @@ dmypy.json
 
 # Add config.py
 config.py
+.config.py
